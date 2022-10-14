@@ -1,6 +1,9 @@
 
 
-# My Profile
+# Hi, I'm Matthew.
+
+I'm an undergraduate student @ Newcastle University currently studying Software Engineering.
+
 ## H2
 ### H3
 
