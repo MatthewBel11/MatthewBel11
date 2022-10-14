@@ -1,14 +1,21 @@
 
 
-# Hi, I'm Matthew.
+# Hey, welcome to my profile! :raised_hands:
 
-I'm an undergraduate student @ Newcastle University currently studying Software Engineering.
+> :point_right: My name is Matthew Bell and i'm an undergraduate student [@Newcastle University](https://www.ncl.ac.uk/)  currently studying Software Engineering. 
 
-## H2
-### H3
+##  So, What do i know? 
+
+1. Python
+2. SQL
+3. HTML
+4. CSS
 
 
+### And what do i plan to know?
 
+
+	
 
 
 
