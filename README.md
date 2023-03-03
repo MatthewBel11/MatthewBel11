@@ -15,10 +15,8 @@
 
 
 	- 🔭 I’m currently working on my own website portfolio using Javascript 
-	
-	- 🌱 I’m currently learning Javascript
 
-	- 🤝 I’m currently looking for local apprenticeships to further my knowledge
+	- 🤝 I plan on looking for local apprenticeships to further my knowledge
 
 	- 👨‍💻 All of my projects will be available on my GitHub
 
