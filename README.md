@@ -14,11 +14,11 @@
 <h3 align="center">  And what are my current goals and plans? </h3>
 
 
-	- 🔭 I’m currently working on my own website portfolio using Javascript 
+	- 🔭 I’m currently working on my own personal projects to futher my coding knowledge.
 
-	- 🤝 I plan on looking for local apprenticeships to further my knowledge
+	- 🤝 I plan on looking for a placement year for my 3rd year of studies.
 
-	- 👨‍💻 All of my projects will be available on my GitHub
+	- 👨‍💻 All of my projects will be available on my GitHub!
 
 <h4 align="center">If you're looking to connect with me:</h4>
 <p align="center">
