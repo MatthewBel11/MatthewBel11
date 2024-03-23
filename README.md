@@ -1,9 +1,8 @@
 
+# Hey, welcome to my profile! :raised_hands:
 
-<h1 align="center">Hey, welcome to my profile! :raised_hands:</h1>
-
-> :point_right: My name is Matthew Bell and i'm an undergraduate student [@Newcastle University](https://www.ncl.ac.uk/) passionate about studying Software Engineering.      
-> Follow this link : https://swe-matthew.com/ to learn more!                                                             
+> My name is Matthew Bell and I'm an undergraduate student at [Newcastle University](https://www.ncl.ac.uk/), passionate about studying Software Engineering.  
+> Follow this link to learn more: [swe-matthew.com](https://swe-matthew.com/)
 
 
 
